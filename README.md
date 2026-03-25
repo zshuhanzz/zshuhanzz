@@ -6,5 +6,6 @@ Hi, I'm Shuhan!
 
 - 💻 Computer Science student at McMaster
 - 🔧 Interested in software engineering + systems
-- 🚀 Currently building projects and applying to internships
+- Looking to collaborate or we can just be friends 🔥
+- Check out my website:
 - Reach me at sshhuu135@gmail.com
