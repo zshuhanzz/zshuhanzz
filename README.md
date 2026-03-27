@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zshuhanzz/zshuhanzz/main/drip%20dog.png" width="350"/>
+  <img src="https://raw.githubusercontent.com/zshuhanzz/zshuhanzz/main/drip%20dog.png" width="330"/>
 </p>
 
 Hi, I'm Shuhan!
